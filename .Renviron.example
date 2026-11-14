@@ -1,0 +1,3 @@
+# Bu dosyayı .Renviron olarak kopyala ve kendi anahtarını yaz.
+# .Renviron, .gitignore içinde olduğu için repoya girmez.
+EVDS_API_KEY=buraya_kendi_anahtarini_yaz
