@@ -1,0 +1,9 @@
+{
+  "_aciklama": "Test için elle yazılmış örnek yanıt; değerler gerçek değildir.",
+  "totalCount": 3,
+  "items": [
+    {"Tarih": "2020-1", "TP_FG_J0": "100.00", "TP_DK_USD_A_YTL": "10.0000", "UNIXTIME": {"$numberLong": "1577826000"}},
+    {"Tarih": "2020-2", "TP_FG_J0": "101.50", "TP_DK_USD_A_YTL": "10.5000", "UNIXTIME": {"$numberLong": "1580504400"}},
+    {"Tarih": "2020-3", "TP_FG_J0": "103.00", "TP_DK_USD_A_YTL": null, "UNIXTIME": {"$numberLong": "1583010000"}}
+  ]
+}
