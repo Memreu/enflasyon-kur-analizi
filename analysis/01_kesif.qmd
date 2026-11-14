@@ -1,0 +1,26 @@
+---
+title: "Keşifçi analiz"
+format: html
+---
+
+```{r}
+tufe <- read.csv("../data/raw/tufe.csv")
+tufe$tarih <- as.Date(tufe$tarih)
+```
+
+## 1. Seriye ilk bakış
+
+<!-- TODO: Endeksin zaman grafiğini çiz. Düzeyde mi, logaritmada mı çizmek daha bilgilendirici? Neden? -->
+
+## 2. Aylık ve yıllık değişim
+
+<!-- TODO: Aylık % değişim ve yıllık % değişim (12 ay önceye göre) serilerini hesapla.
+     Hangisi mevsimsellik içerir, hangisi içermez? -->
+
+## 3. Mevsimsellik
+
+<!-- TODO: Aylık değişimlerin aylara göre dağılımı (kutu grafiği). Belirgin bir mevsimsel desen var mı? -->
+
+## 4. Durağanlık için ilk izlenim
+
+<!-- TODO: ACF grafikleri. ADF ve KPSS testleri bir sonraki belgede; burada yalnızca gözlemlerini yaz. -->
