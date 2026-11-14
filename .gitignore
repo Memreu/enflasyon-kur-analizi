@@ -1,0 +1,22 @@
+# Gizli bilgiler
+.Renviron
+
+# Ham veri: scripts/01_veri_cek.R ile yeniden üretilir
+data/raw/*
+!data/raw/.gitkeep
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Quarto
+*_files/
+.quarto/
+analysis/*.html
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
