@@ -2,9 +2,9 @@
 
 [![test](https://github.com/Memreu/enflasyon-kur-analizi/actions/workflows/test.yml/badge.svg)](https://github.com/Memreu/enflasyon-kur-analizi/actions/workflows/test.yml)
 
-Türkiye'de TÜFE ve USD/TRY serilerinde **yapısal kırılmaları** bulmak ve tahmin modellerini **kayan pencereli (rolling-origin) değerlendirmeyle** karşılaştırmak için bir R çalışması. Veri kaynağı TCMB Elektronik Veri Dağıtım Sistemi (EVDS).
+Türkiye'de TÜFE ve USD/TRY serilerinde yapısal kırılmaları bulmak ve tahmin modellerini kayan pencereli (rolling-origin) değerlendirmeyle karşılaştırmak için bir R çalışması. Veri kaynağı TCMB Elektronik Veri Dağıtım Sistemi (EVDS).
 
-> 🚧 Çalışma devam ediyor. Bulgular ve yorumlar analiz ilerledikçe eklenecek.
+Çalışma hâlâ devam ediyor; bulguları ve yorumları analiz ilerledikçe ekleyeceğim.
 
 ## Araştırma soruları
 
@@ -57,6 +57,6 @@ Rscript -e 'testthat::test_dir("tests/testthat")'
 
 ---
 
-Bu proje [MIT lisansı](LICENSE) ile paylaşılmaktadır.
+Proje [MIT lisansı](LICENSE) ile paylaşılıyor.
 
-**Mehmet Emre Ünlü** · [GitHub](https://github.com/Memreu) · [LinkedIn](https://www.linkedin.com/in/memreu) · [Kaggle](https://www.kaggle.com/memreu)
+Mehmet Emre Ünlü · [GitHub](https://github.com/Memreu) · [LinkedIn](https://www.linkedin.com/in/memreu) · [Kaggle](https://www.kaggle.com/memreu)
